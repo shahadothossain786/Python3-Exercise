@@ -5,4 +5,4 @@
 hight = float(input("Give a Hight Of a Traingle : "))
 base = float(input("Give a Base Of A Traingle : "))
 area = 0.5*base*hight
-print("Area of a Traingle : ",area)
+print("Area of a Traingle : %0.2f" %area)
